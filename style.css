@@ -1,0 +1,49 @@
+
+body {
+background-image: url(games6.jpg);
+background-size: 1600px;
+box-shadow: 1px 1px 5px 5px;
+ border: 3px solid ;width: 600px;height: 750px;
+margin-left: 500px;
+margin-top: 20px;
+color: rgb(14, 2, 20);
+margin-bottom: 20px;
+font-weight: 100;
+}
+input{
+    padding: 5px;
+    
+}
+
+form{
+    text-align: center;
+    
+}
+form h1{
+    font-size: 42px;
+}
+.format{
+    font-size: 25px;
+    margin-bottom: 12px;
+}
+.gender{
+    margin-top: 10px;
+    font-size:25px;
+}
+
+.age{
+    margin-top: 10px;
+    font-size:25px; 
+}
+.date{
+    margin-top: 10px;
+    font-size:25px;
+}
+button{
+    margin-top: 25px; 
+    background-color: rgb(108, 12, 172);
+    font-size: 26px;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+}
